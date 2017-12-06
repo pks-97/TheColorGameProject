@@ -7,3 +7,4 @@ to improve their color-rgb estimation capabilities.Hope you like it!!!.
 
 
 BuiltWith:1.HTML 2.CSS 3.JavaScript
+Enjoy the game here:https://pks-97.github.io/TheColorGameProject/
